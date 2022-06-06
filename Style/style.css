@@ -36,7 +36,10 @@ h3 {
   top: 20%;
   text-shadow: -1px -1px 0px #ffa75f, 3px 3px 0px #ffd78a, 6px 6px 0px #ff835f;
 }
+.links{
+  text-align: center;
 
+}
 .Titulo {
   text-align: center;
   width: 100%;
