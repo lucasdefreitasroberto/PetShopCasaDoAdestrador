@@ -8,8 +8,9 @@
 
 body {
   font-family: "Impact", cursive;
-  background: #fff3cf;
-  background-image: url("https://i.postimg.cc/y6S60tTV/cuadrado.png");
+   background: #fff3cf;
+   background-image: url("https://i.postimg.cc/y6S60tTV/cuadrado.png");
+  
   background-size: 280px;
 }
 h1 {
@@ -22,7 +23,7 @@ h1 {
   top: 55%;
   position: absolute;
   margin-top: -368px;
-  text-shadow: -1px -1px 0px #ffa75f, 3px 3px 0px #ffd78a, 6px 6px 0px #ff835f;
+  text-shadow: -1px -1px 0px #ffa75f, 3px 3px 0px #ffd78a, 6px 6px 0px #c04320;
 }
 
 h3 {
@@ -40,7 +41,8 @@ h3 {
   text-align: center;
   width: 100%;
   margin: 0px auto;
-  color: #fff;
+  /* color: #fff; */
+  color: rgb(56, 58, 48);
   font-size: 100px;
   letter-spacing: 5px;
   top: 55%;
