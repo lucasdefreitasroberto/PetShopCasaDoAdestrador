@@ -1,3 +1,4 @@
+
 .padre {
   text-align: center;
   top: 60%;
@@ -12,9 +13,12 @@ html{
 
 body {
   font-family: "Impact", cursive;
-   background: #e4ded3;
-   background-image: url("https://i.postimg.cc/y6S60tTV/cuadrado.png");
-  
+  background: rgb(230, 214, 179);
+  /* background-image: url("https://i.postimg.cc/D0hgN9vR/pngwing-com.png"); */
+  /* background-image: url("https://i.postimg.cc/d37qzx5m/pngwing-com-2.png"); */
+  background-image: url("https://i.postimg.cc/hjD8b92q/pngwing-com-3.png");
+   /* background: #e4ded3; */
+   /* background-image: url("https://i.postimg.cc/y6S60tTV/cuadrado.png");   */
   background-size: 280px;
 }
 h1 {
