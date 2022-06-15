@@ -16,7 +16,12 @@ body {
   background: rgb(255, 255, 255);
   /* background-image: url("https://i.postimg.cc/D0hgN9vR/pngwing-com.png"); */
   /* background-image: url("https://i.postimg.cc/d37qzx5m/pngwing-com-2.png"); */
-  background-image: url("https://i.postimg.cc/hjD8b92q/pngwing-com-3.png");
+  /* background-image: url("https://i.postimg.cc/hjD8b92q/pngwing-com-3.png");  */
+  background-image: url("https://static3.depositphotos.com/1006024/264/v/600/depositphotos_2640329-stock-illustration-seamless-footprint-pattern.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  
+ 
    /* background: #e4ded3; */
    /* background-image: url("https://i.postimg.cc/y6S60tTV/cuadrado.png");   */
   background-size: 280px;
@@ -75,7 +80,8 @@ h3 {
   border: none;
   margin: 50px;
   background-color: rgb(0, 9, 0, 0);
-  color: #ff835f;
+  /* color: #ff835f; */
+  color: rgb(255, 255, 255);
   font-size: 20px;
   font-family: Chalkboard;
   font-weight: bold;
@@ -303,13 +309,14 @@ p {
   overflow: hidden;
   cursor: pointer;
   padding: 15px;
+  margin-top: 60px;
 }
 .section-in {
   position: relative;
   display: block;
-  width: 100%;
+  width: 90%;
   overflow: hidden;
-  border-radius: 6px;
+  border-radius: 50px;
   cursor: pointer;
 }
 .section-in img {
